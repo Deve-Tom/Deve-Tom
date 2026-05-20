@@ -19,19 +19,19 @@
 
 ### 👨‍💻 About Me
 - Name: **He Sheng (Deve Tom / Limity)** 🧑‍💻
-- Education: Bachelor of Engineering, Sichuan University Jincheng College (2020.09 - 2024.06) 🎓
+- Education: Bachelor of Engineering (2020.09 - 2024.06) 🎓
 - Current Location: Xi'an, Shaanxi 📍
 - Focus: Embedded Development 🛠️ • Backend Development ⚙️ • Cross-platform Client Development 🖥️
 - Style: Clean code 🧹 • High performance pursuit ⚡ • Tech & art integration 🎨
 - Philosophy: Keep learning 📚, keep creating ✨
 
 ### 💼 Work Experience
-- **Hillstone Instruments (Shenzhen) Co., Ltd. | Embedded Software Development Engineer** (2024.06 - Present) 🏭
+- **Some Hillstone Instruments Co., Ltd. | Embedded Software Development Engineer** (2024.06 - Present) 🏭
   - Collaborated with cross-functional teams to develop and maintain embedded software for intelligent monitoring instruments 📊.
   - Implemented device adaptation for new electricity meters and sensors using C++ 🚀 and Qt 🖱️.
   - Developed a Golang-based backend service for sensor data logging and remote access using Gin 🌀, Gorm 🛢️, and SQLite 🗄️, enabling web-based remote log export 📤.
 
-- **Qianwan Technology (Shanghai) Co., Ltd. | Golang Backend Development Engineer** (2023.10 - 2024.05) 🏢
+- **Some Technology Co., Ltd. | Golang Backend Development Engineer** (2023.10 - 2024.05) 🏢
   - Responsible for backend architecture design 🏗️, core feature development 🧩, and performance optimization 🚀 for IoT 🌐 and energy management systems ⚡.
   - Developed data acquisition and parsing modules for smart meters using DLT2007 protocol 📜 and MQTT 📡, replacing manual operations and significantly improving efficiency ⏱️.
   - Built a serial communication tool with custom parsing rules using Qt(C++) 🧰, enhancing user workflow and supporting theme customization 🎨.
