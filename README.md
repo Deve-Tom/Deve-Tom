@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 - Name: **He Sheng (Deve Tom / Limity)** 🧑‍💻
 - Education: Bachelor of Engineering (2020.09 - 2024.06) 🎓
-- Current Location: Xi'an, Shaanxi 📍
+- Current Location: China 📍
 - Focus: Embedded Development 🛠️ • Backend Development ⚙️ • Cross-platform Client Development 🖥️
 - Style: Clean code 🧹 • High performance pursuit ⚡ • Tech & art integration 🎨
 - Philosophy: Keep learning 📚, keep creating ✨
@@ -78,7 +78,7 @@
 ### 👨‍💻 关于我
 - 姓名：**贺胜 (Deve Tom / Limity)** 🧑‍💻
 - 学历：软件工程学士 (2020.09 - 2024.06) 🎓
-- 现居地：陕西西安 📍
+- 现居地：中国 📍
 - 方向：嵌入式开发 🛠️ • 后端开发 ⚙️ • 跨平台客户端
 - 风格：技术与美学融合 🎨 • 高性能追求 ⚡ • 优雅代码 🧹
 - 理念：持续深耕 📚，持续创造 ✨
